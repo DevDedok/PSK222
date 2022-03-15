@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PSK22</string>
+    <string name="main_greetings">Hello!</string>
 </resources>
